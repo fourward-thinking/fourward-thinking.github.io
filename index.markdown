@@ -1,15 +1,12 @@
 # Fourward Thinking
 
 ## Table of Contents
-* The contents of our project
-* will be displayed here.
+* The contents of our project will be displayed here.
+* Different technologies used will be listed here.
 
 ## Overview
 
 This is an overview of our project. TBD.
-
-* Different technologies used
-* will be listed here
 
 ## Middle Stuff, Filler
 
@@ -28,4 +25,9 @@ More Descriptions
 TBD
 
 ## Team
-Fourward Thinking is designed, implement, and maintained by Kaena Sylva, Aldwin Santos, Jayden Capistrano, and Joshua Scott.
+
+Fourward Thinking is designed, implemented, and maintained by:
+* Kaena Sylva
+* Aldwin Santos
+* Jayden Capistrano
+* Joshua Scott
