@@ -1,8 +1,10 @@
 # Fourward Thinking
 
 ## Table of Contents
-- The contents of our project will be displayed here.
-- Different technologies used will be listed here.
+- [Overview](#overview)
+- [Middle Stuff, Filler](#middle-stuff-filler)
+- [Development History](#development-history)
+- [Team](#team)
 
 ## Overview
 
