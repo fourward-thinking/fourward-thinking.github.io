@@ -1,10 +1,10 @@
 # Fourward Thinking
 
 ## Table of Contents
-- [Overview](#overview)
-- [Middle Stuff, Filler](#middle-stuff-filler)
-- [Development History](#development-history)
-- [Team](#team)
+* [Overview](#overview)
+* [Middle Stuff, Filler](#middle-stuff-filler)
+* [Development History](#development-history)
+* [Team](#team)
 
 ## Overview
 
@@ -29,7 +29,7 @@ TBD
 ## Team
 
 Fourward Thinking is designed, implemented, and maintained by:
-- Kaena Sylva
-- Aldwin Santos
-- Jayden Capistrano
-- Joshua Scott
+* Kaena Sylva
+* Aldwin Santos
+* Jayden Capistrano
+* Joshua Scott
