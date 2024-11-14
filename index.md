@@ -67,4 +67,6 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## Team
 
-Fourward Thinking is designed, implemented, and maintained by Kaena Sylva, Aldwin Santos, Jayden Capistrano, and Joshua Scott
+Fourward Thinking is designed, implemented, and maintained by Kaena Sylva, Aldwin Santos, Jayden Capistrano, and Joshua Scott.
+
+Team Contract can be found [here](https://docs.google.com/document/d/1eQ3XoFDD-6ArQlqjSbglP0_gA7TwmLjyn-lzj64xbVA/edit?usp=sharing).
