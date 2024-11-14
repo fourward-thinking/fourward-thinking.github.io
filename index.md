@@ -2,8 +2,10 @@
 
 ## Table of Contents
 * [Overview](#overview)
-* [Middle Stuff, Filler](#middle-stuff-filler)
-* [Development History](#development-history)
+* [Approach](#approach)
+* [Mockup Page Ideas](#mockup-page-ideas)
+* [Use Case Ideas](#use-case-ideas)
+* [Beyond the Basics](#beyond-the-basics)
 * [Team](#team)
 
 ## Overview
