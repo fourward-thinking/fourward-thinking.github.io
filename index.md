@@ -40,18 +40,18 @@ Important design goals for Study Buddy are:
 Some mockup pages include:
 
 * Landing Page
-  <img src="landing-page.png" alt="Landing Page" />
+  <img src="mockups/landing-page.png" alt="Landing Page" />
 * User Home Page
 * Admin Home Page
 * User Profile Page
-  <img src="user-profile.png" alt="User Profile Page" />
+  <img src="mockups/user-profile.png" alt="User Profile Page" />
 * Calendar Page
 * Create Study Session Page
-  <img src="create-session.png" alt="Create Session Page" />
+  <img src="mockups/create-session.png" alt="Create Session Page" />
 * Study Session Page
-  <img src="session-details.png" alt="Session Details Page" />
+  <img src="mockups/session-details.png" alt="Session Details Page" />
 * Game Mechanic Page(s) (i.e. leaderboard, badges, etc.)
-  <img src="user-badges.png" alt="User Badges Page" />
+  <img src="mockups/user-badges.png" alt="User Badges Page" />
 
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
