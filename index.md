@@ -16,9 +16,9 @@
 
 ## Approach
 
-Fourward Thinking is an app designed to help ICS students connect with each other for peer-to-peer study sessions. To get started, students must log in and set up their profile. The profile allows students to list the courses they've completed, where they are available to offer help (as a Sensei), as well as the courses they are currently enrolled in, where they may need assistance (as a Grasshopper). This means every student can play both roles—Sensei in some courses and Grasshopper in others. Students are also required to upload a profile picture to ensure they can be easily identified.
+Fourward Thinking is an app designed to help ICS students connect with each other for peer-to-peer study sessions. To get started, students must log in and set up their profile. The profile allows students to list the courses they've completed, where they are available to offer help, as well as the courses they are currently enrolled in, where they may need assistance. This means every student can play both roles—in the curriculum. Students are also required to upload a profile picture to ensure they can be easily identified.
 
-The app includes a section where all ICS courses are listed. Within each course, students can view the Grasshoppers and Senseis for that course. A Grasshopper can propose a study session around a specific topic they are working on (e.g., “Help me with my essay on configuration management”), along with a suggested time to meet in ICSpace (e.g., 8:30–9:30 PM tonight). This proposal triggers a notification to all other Grasshoppers and Senseis for that course, who can then indicate whether they plan to attend the session at that time.
+The app features a section where all ICS courses are listed. For each course, students can view others who are currently enrolled or have completed the course. A student can propose a study session focused on a specific topic they need help with (e.g., "Help me with my essay on configuration management"), along with a suggested meeting time in the ICSpace (e.g., 8:30–9:30 PM tonight). Once the proposal is made, a notification is sent to all students in the course, allowing them to indicate whether they plan to attend the session at the proposed time.
 
 There is also an online calendar that shows all scheduled study sessions and the attendees for each.
 
