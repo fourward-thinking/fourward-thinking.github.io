@@ -88,7 +88,7 @@ Whether or not the following bullet points list all pages or not, the completed 
 * User checks their status with respect to game mechanics.
 
 ## Milestone 1
-<a href="[https://www.google.com](https://github.com/orgs/fourward-thinking/projects/1)" target="_blank">Milestone1</a>
+<a href="[https://www.google.com](https://github.com/orgs/fourward-thinking/projects/1)" target="_blank">M1</a>
 
 ## Going Further
 After implementing the basic functionality, here are ideas for more advanced features:
