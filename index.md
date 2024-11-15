@@ -18,15 +18,15 @@
 
 Fourward Thinking is an app designed to help ICS students connect with each other for peer-to-peer study sessions. To get started, students must log in and set up their profile. The profile allows students to list the courses they've completed, where they are available to offer help, as well as the courses they are currently enrolled in, where they may need assistance. This means every student can play both roles—in the curriculum. Students are also required to upload a profile picture to ensure they can be easily identified.
 
-The app features a section where all ICS courses are listed. For each course, students can view others who are currently enrolled or have completed the course. A student can propose a study session focused on a specific topic they need help with (e.g., "Help me with my essay on configuration management"), along with a suggested meeting time in the ICSpace (e.g., 8:30–9:30 PM tonight). Once the proposal is made, a notification is sent to all students in the course, allowing them to indicate whether they plan to attend the session at the proposed time.
+The app features a section where all ICS courses are listed. For each course, students can view others who are currently enrolled or have completed the course. A student can propose a study session focused on a specific topic they need help with (e.g., "Help me with my essay on configuration management"), along with a suggested meeting time in the ICSpace (e.g., 8:30–9:30 PM tonight). Once the proposal is made, a notification is sent to all relevant members of the ICS department, allowing them to indicate whether they plan to attend the session at the proposed time.
 
-There is also an online calendar that shows all scheduled study sessions and the attendees for each.
+There is also an online calendar that shows all scheduled study sessions and the participants for each.
 
 Fourward Thinking offers two modes for organizing study sessions:
 
   **Planned Sessions**: If you want to arrange a group study session for later, you can schedule it for a specific time in the future.
 
-  **Immediate Help:** If you need help right away, you can select “Right Now!” to indicate you’re currently in ICSpace and need assistance. This alerts all the Senseis and Grasshoppers for your course, allowing others to join in and create a spontaneous study group.
+  **Immediate Help:** If you need help right away, you can select “Right Now” to indicate you’re currently in ICSpace and need assistance. This alerts all the relevant members of the ICS department for your course, allowing others to join in and create a spontaneous study group.
 
 Administrators oversee the platform and can be contacted by users if they encounter any inappropriate behavior.
 Key Design Goals for Fourward Thinking:
@@ -35,7 +35,7 @@ Key Design Goals for Fourward Thinking:
   - Minimize Risks: Ensure all study sessions take place in ICSpace, reducing the chances of inappropriate encounters.
   - Foster Face-to-Face Interaction: Promote direct, in-person collaboration among ICS students.
 
-## Mockup Page Ideas
+## Mockup Pages
 Some mockup pages include:
 
 * **Landing Page:**
@@ -75,6 +75,9 @@ Some mockup pages include:
 * **Notifications Page:**
   Where users can configure their notification preferences, including the option to mute notifications based on course commitments or personal time.
 
+* **ICS Courses List:**
+  Where users can view a list of all available ICS courses, as well as those who are taking or have taken said courses.
+
 ## Use Case
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
@@ -90,7 +93,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Text message interface. See notifications, and reply to confirm attendance all through text message.
 * Slack integration to facilitate notification and organization of meetings.
 * A Slack Bot to suggest and help implement Fourward Thinking meetings.
-* A rating system for meetings and sensei participation.
+* A rating system for meetings and  participation.
 
 ## Team
 
