@@ -40,18 +40,36 @@ Important design goals for Study Buddy are:
 Some mockup pages include:
 
 * Landing Page
+  Overview of the app, call to action for new users to sign up or log in.
   <img src="mockups/landing-page.png" alt="Landing Page" />
+  
 * User Home Page
+  A personalised dashboard showing upcoming study sessions, notifications, and a quick way to join or propose new sessions.
+  
 * Admin Home Page
+  Admin tools for overseeing activity, monitoring reports, and managing content.
+  
 * User Profile Page
+  Allows users to input their course information, headshot, and optional availability for other commitments. Display earned points and badges.
   <img src="mockups/user-profile.png" alt="User Profile Page" />
+  
 * Calendar Page
+  Displays upcoming and past study sessions. Users can filter by course, topic, and time. Shows both group study sessions and solo sessions.
+  
 * Create Study Session Page
+  A page where students seeking help can propose study sessions on specific topics and schedule a time.
   <img src="mockups/create-session.png" alt="Create Session Page" />
+  
 * Study Session Page
+  Details of a specific study session, including participants, topic, time, and a status tracker (e.g., ongoing, completed).
   <img src="mockups/session-details.png" alt="Session Details Page" />
+  
 * Game Mechanic Page(s) (i.e. leaderboard, badges, etc.)
+  Displays the point or level system, solo and group rankings, and details of available rewards.
   <img src="mockups/user-badges.png" alt="User Badges Page" />
+
+* Notifications Page
+  Where users can configure their notification preferences, including the option to mute notifications based on course commitments or personal time.
 
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
