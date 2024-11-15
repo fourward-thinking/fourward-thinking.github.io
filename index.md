@@ -44,7 +44,7 @@ Some mockup pages include:
   <img src="mockups/landing-page.png" alt="Landing Page" />
   
 * **User Home Page:**
-  A personalised dashboard showing upcoming study sessions, notifications, and a quick way to join or propose new sessions.
+  A personalized dashboard showing upcoming study sessions, notifications, and a quick way to join or propose new sessions.
   
 * **Admin Home Page:**
   Admin tools for overseeing activity, monitoring reports, and managing content.
@@ -60,12 +60,12 @@ Some mockup pages include:
 * **Create Study Session Page:**
   A page where students seeking help can propose study sessions on specific topics and schedule a time.
   
-  <img src="mockups/create-session.png" alt="Create Session Page" />
+  <img src="mockups/create-session-v2.png" alt="Create Session Page" />
   
 * **Study Session Page:**
   Details of a specific study session, including participants, topic, time, and a status tracker (e.g., ongoing, completed).
   
-  <img src="mockups/session-details.png" alt="Session Details Page" />
+  <img src="mockups/session-details-v2.png" alt="Session Details Page" />
   
 * **Game Mechanic Page(s):**
   Displays the point or level system, solo and group rankings, and details of available rewards.
@@ -73,7 +73,7 @@ Some mockup pages include:
   <img src="mockups/user-badges.png" alt="User Badges Page" />
 
 * **Notifications Page:**
-  Where users can configure their notification preferences, including the option to mute notifications based on course commitments or personal time.
+  Users can configure their notification preferences, including the option to mute notifications based on course commitments or personal time.
 
 * **ICS Courses List:**
   Where users can view a list of all available ICS courses, as well as those who are taking or have taken said courses.
