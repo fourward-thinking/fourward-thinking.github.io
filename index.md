@@ -87,6 +87,9 @@ Whether or not the following bullet points list all pages or not, the completed 
 * User is notified of study sesh, responds. (Can they respond via text message?)
 * User checks their status with respect to game mechanics.
 
+## Milestone 1
+https://github.com/orgs/fourward-thinking/projects/1
+
 ## Going Further
 After implementing the basic functionality, here are ideas for more advanced features:
 
