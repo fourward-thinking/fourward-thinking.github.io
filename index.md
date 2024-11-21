@@ -6,6 +6,8 @@
 * [Approach](#approach)
 * [Mockup Pages](#mockup-pages)
 * [Use Case](#use-case-ideas)
+* [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
 * [Going Further](#going-further)
 * [Team](#team)
 
