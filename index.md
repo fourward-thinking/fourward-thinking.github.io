@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [Approach](#approach)
 * [Mockup Pages](#mockup-pages)
 * [Use Case](#use-case-ideas)
@@ -13,6 +14,11 @@
 *The Problem*: ICS students often spend more time than necessary on their homework and struggle to learn the material as effectively as possible, primarily because they study in isolation and don't take advantage of the benefits offered by face-to-face study groups with peer mentors.
 
 *The Solution*: Fourward Thinking is an application designed for UHM ICS students to easily organize face-to-face study groups focused on specific courses, homework assignments, or project topics.
+
+## Deployment
+Our project is live on Vercel!
+
+https://fourward-thinking-app.vercel.app/
 
 ## Approach
 
@@ -88,7 +94,8 @@ Whether or not the following bullet points list all pages or not, the completed 
 * User checks their status with respect to game mechanics.
 
 ## Milestone 1
-<a href="[https://www.google.com](https://github.com/orgs/fourward-thinking/projects/1)" target="_blank">M1</a>
+The goal of Milestone 1 was to create several HTML mockup pages in the system. Our Milestone one project board can be found
+<a href="[https://www.google.com](https://github.com/orgs/fourward-thinking/projects/1)" target="_blank">here</a>.
 
 ## Going Further
 After implementing the basic functionality, here are ideas for more advanced features:
