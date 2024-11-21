@@ -96,6 +96,9 @@ Whether or not the following bullet points list all pages or not, the completed 
 ## Milestone 1
 The goal of Milestone 1 was to create several HTML mockup pages in the system. Our Milestone 1 project board can be found on our [GitHub Project M1 Page](https://github.com/orgs/fourward-thinking/projects/1).
 
+## Milestone 2
+The goal of Milestone 2 is to add a few more mockup pages, as well as to implement the back-end of in-place mockups. Our Milestone 2 project board can be found on our [GitHub Project M2 Page](https://github.com/orgs/fourward-thinking/projects/3)
+
 ## Going Further
 After implementing the basic functionality, here are ideas for more advanced features:
 
