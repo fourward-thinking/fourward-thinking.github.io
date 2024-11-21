@@ -18,7 +18,7 @@
 ## Deployment
 Our project is live on Vercel!
 
-https://fourward-thinking-app.vercel.app/
+[Fourward Thinking App](https://fourward-thinking-app.vercel.app/)
 
 ## Approach
 
@@ -94,8 +94,8 @@ Whether or not the following bullet points list all pages or not, the completed 
 * User checks their status with respect to game mechanics.
 
 ## Milestone 1
-The goal of Milestone 1 was to create several HTML mockup pages in the system. Our Milestone one project board can be found
-<a href="[https://www.google.com](https://github.com/orgs/fourward-thinking/projects/1)" target="_blank">here</a>.
+The goal of Milestone 1 was to create several HTML mockup pages in the system. Our Milestone 1 project board can be found on our
+<a href="[https://www.google.com](https://github.com/orgs/fourward-thinking/projects/1)" target="_blank">GitHub Project M1 Page</a>.
 
 ## Going Further
 After implementing the basic functionality, here are ideas for more advanced features:
