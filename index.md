@@ -70,7 +70,7 @@ Some mockup pages include:
 * **User Profile Page:**
   Allows users to input their course information, headshot, and optional availability for other commitments. Display earned points and badges.
   
-  <img src="mockups/user-profile.png" alt="User Profile Page" />
+  <img src="html-mockups/html-userprofile.png" alt="User Profile Page" />
   
 * **Calendar Page:**
   Displays upcoming and past study sessions. Users can filter by course, topic, and time. Shows both group study sessions and solo sessions.
@@ -85,7 +85,7 @@ Some mockup pages include:
 * **Study Session Page:**
   Details of a specific study session, including participants, topic, time, and a status tracker (e.g., ongoing, completed).
   
-  <img src="mockups/session-details-v2.png" alt="Session Details Page" />
+  <img src="html-mockups/html-sessiondetails.png" alt="Session Details Page" />
   
 * **Game Mechanic Page(s):**
   Displays the point or level system, solo and group rankings, and details of available rewards.
