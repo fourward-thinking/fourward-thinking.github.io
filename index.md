@@ -80,7 +80,7 @@ Some mockup pages include:
 * **Create Study Session Page:**
   A page where students seeking help can propose study sessions on specific topics and schedule a time.
   
-  <img src="mockups/create-session-v2.png" alt="Create Session Page" />
+  <img src="mockups/html-createsession.png" alt="Create Session Page" />
   
 * **Study Session Page:**
   Details of a specific study session, including participants, topic, time, and a status tracker (e.g., ongoing, completed).
