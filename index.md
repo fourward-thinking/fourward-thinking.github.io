@@ -47,9 +47,19 @@ Key Design Goals for Fourward Thinking:
 Some mockup pages include:
 
 * **Landing Page:**
-  Overview of the app, call to action for new users to sign up or log in.
+  Overview of the app, encourage users to search for active study sessions.
   
-  <img src="mockups/landing-page.png" alt="Landing Page" />
+  <img src="html-mockups/html-landing.png" alt="Landing Page" />
+
+* **Sign In:**
+  A window prompting users to sign into their account.
+
+  <img src="html-mockups/html-signin.png" alt="Sign-in Page" />
+
+* **Sign Up:**
+  A window prompting users to create an account if they don't already have one.
+
+  <img src="html-mockups/html-signup.png" alt="Sign-up Page" />
   
 * **User Home Page:**
   A personalized dashboard showing upcoming study sessions, notifications, and a quick way to join or propose new sessions.
@@ -64,6 +74,8 @@ Some mockup pages include:
   
 * **Calendar Page:**
   Displays upcoming and past study sessions. Users can filter by course, topic, and time. Shows both group study sessions and solo sessions.
+
+  <img src="html-mockups/html-calendar.png" alt="Calendar Page" />
   
 * **Create Study Session Page:**
   A page where students seeking help can propose study sessions on specific topics and schedule a time.
@@ -85,6 +97,8 @@ Some mockup pages include:
 
 * **ICS Courses List:**
   Where users can view a list of all available ICS courses, as well as those who are taking or have taken said courses.
+
+  <img src="html-mockups/html-courses.png" alt="Courses Page" />
 
 ## Use Case
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
