@@ -19,7 +19,7 @@
 *The Solution*: Fourward Thinking is an application designed for UHM ICS students to easily organize face-to-face study groups focused on specific courses, homework assignments, or project topics.
 
 ## Deployment
-Our project is live on Vercel!
+Our project is live on Vercel! [![fourward-thinking-app](https://github.com/fourward-thinking/fourward-thinking-app/actions/workflows/ci.yml/badge.svg)](https://github.com/fourward-thinking/fourward-thinking-app/actions/workflows/ci.yml)
 
 [Fourward Thinking App](https://fourward-thinking-app.vercel.app/)
 
