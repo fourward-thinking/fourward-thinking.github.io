@@ -4,8 +4,8 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [Approach](#approach)
-* [Mockup Pages](#mockup-pages)
-* [Use Case](#use-case-ideas)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Going Further](#going-further)
@@ -43,8 +43,8 @@ Key Design Goals for Fourward Thinking:
   - Minimize Risks: Ensure all study sessions take place in ICSpace, reducing the chances of inappropriate encounters.
   - Foster Face-to-Face Interaction: Promote direct, in-person collaboration among ICS students.
 
-## Mockup Pages
-Some mockup pages include:
+## User Guide
+Below, users may find a list of pages available for use.
 
 * **Landing Page:**
   Overview of the app, encourage users to search for active study sessions.
@@ -92,22 +92,39 @@ Some mockup pages include:
   
   <img src="mockups/user-badges.png" alt="User Badges Page" />
 
-* **Notifications Page:**
-  Users can configure their notification preferences, including the option to mute notifications based on course commitments or personal time.
-
 * **ICS Courses List:**
   Where users can view a list of all available ICS courses, as well as those who are taking or have taken said courses.
 
   <img src="html-mockups/html-courses.png" alt="Courses Page" />
 
-## Use Case
-Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
+## Developer Guide
+This section provides information of interest to developers that want to use this code base as a basis for their own development tasks.
 
-* New user goes to landing page, logs in, gets home page, sets up profile. (How do they learn how system works?)
-* Admin goes to landing page, logs in, gets home page, edits site.
-* User goes to landing page, logs in, requests study sesh.
-* User is notified of study sesh, responds. (Can they respond via text message?)
-* User checks their status with respect to game mechanics.
+### Installation
+
+First, [install npm](https://docs.npmjs.com/cli/v9/commands/npm-install).
+
+Second, visit the [Fourward Thinking application github page](https://github.com/fourward-thinking/fourward-thinking-app), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the fourward-thinking-app/app directory and install libraries with:
+
+``$ npm install``
+
+Fourth, run the system with:
+
+``$ npm run start``
+
+If all goes well, the application will appear at http://localhost:3000.
+
+### Quality Assurance
+
+#### ESLint
+
+Fourward Thinking includes a .eslintrc file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+``$ npm run lint``
+
+ESLint should run without generating any errors. It's sigificantly easier to do development with ESLint integrated directly into your IDE (such as VSCode).
 
 ## Milestone 1
 The goal of Milestone 1 was to create several HTML mockup pages in the system. Our Milestone 1 project board can be found on our [GitHub Project M1 Page](https://github.com/orgs/fourward-thinking/projects/1).
@@ -115,7 +132,10 @@ The goal of Milestone 1 was to create several HTML mockup pages in the system. O
 <img src="html-mockups/m1-completed-tasks.png" alt="Completed M1 Tasks" />
 
 ## Milestone 2
-The goal of Milestone 2 is to add a few more mockup pages, as well as to implement the back-end of in-place mockups. Our Milestone 2 project board can be found on our [GitHub Project M2 Page](https://github.com/orgs/fourward-thinking/projects/3)
+The goal of Milestone 2 was to add a few more mockup pages, as well as to implement the back-end of in-place mockups. Our Milestone 2 project board can be found on our [GitHub Project M2 Page](https://github.com/orgs/fourward-thinking/projects/3).
+
+## Milestone 3
+The goal of Milestone 3 is to complete all remaining functionality within the app, and polish the user interface. Our Milestone 3 project board can be found on our [GitHub Project M3 Page](https://github.com/orgs/fourward-thinking/projects/4).
 
 ## Going Further
 After implementing the basic functionality, here are ideas for more advanced features:
@@ -127,6 +147,6 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## Team
 
-Fourward Thinking is designed, implemented, and maintained by Kaena Sylva, Aldwin Santos, Jayden Capistrano, and Joshua Scott.
+Fourward Thinking is designed, implemented, and maintained by Kaena Sylva, Aldwin Santos, and Jayden Capistrano.
 
 Team Contract can be found [here](https://docs.google.com/document/d/1eQ3XoFDD-6ArQlqjSbglP0_gA7TwmLjyn-lzj64xbVA/edit?usp=sharing).
