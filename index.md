@@ -1,5 +1,7 @@
 # Fourward Thinking
 
+[![fourward-thinking-app](https://github.com/fourward-thinking/fourward-thinking-app/actions/workflows/ci.yml/badge.svg)](https://github.com/fourward-thinking/fourward-thinking-app/actions/workflows/ci.yml)
+
 ## Table of Contents
 * [Overview](#overview)
 * [Deployment](#deployment)
@@ -19,7 +21,7 @@
 *The Solution*: Fourward Thinking is an application designed for UHM ICS students to easily organize face-to-face study groups focused on specific courses, homework assignments, or project topics.
 
 ## Deployment
-[![fourward-thinking-app](https://github.com/fourward-thinking/fourward-thinking-app/actions/workflows/ci.yml/badge.svg)](https://github.com/fourward-thinking/fourward-thinking-app/actions/workflows/ci.yml)
+
 Our project is live on Vercel!
 
 [Fourward Thinking App](https://fourward-thinking-app.vercel.app/)
