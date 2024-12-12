@@ -7,6 +7,7 @@
 * [Deployment](#deployment)
 * [Approach](#approach)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
@@ -101,6 +102,34 @@ Below, users may find a list of pages available for use.
 
   <img src="html-mockups/html-courses.png" alt="Courses Page" />
 
+## Community Feedback
+We have received feedback from some UH community members, as of 12/12/2024.
+
+### Person 1:
+- Good looking landing page.
+- A tutorial section when you scroll down might help, because there isn't much instruction when you open the website.
+- Profile page could use a touch-up.
+
+### Person 2:
+- I like the design of the pages, but they need more buttons that work.
+- How am I supposed to add people or look for study sessions?
+- I really like the direction, but some parts of the website feel incomplete.
+
+### Person 3:
+- Website feels unpolished and incomplete.
+- Can't sign in or create session.
+- Keep working on this project! With time, it can be great.
+
+### Person 4:
+- The calendar page looks promising, but it feels a bit empty. Maybe add a sample schedule or some quick actions to create events.
+- It's not clear how to link the calendar to specific courses or sessions.
+- The overall design is nice, but more interactivity would make it feel complete.
+
+### Person 5:
+- The courses page has potential, but needs more features. Perhaps an option to filter courses or search by keywords?
+- The profile page seems very unfinished. Formatting it would bring the visuals of the webstie together.
+- It would be cool if the calendar page and courses were connected somehow.
+
 ## Developer Guide
 This section provides information of interest to developers that want to use this code base as a basis for their own development tasks.
 
@@ -138,6 +167,8 @@ The goal of Milestone 1 was to create several HTML mockup pages in the system. O
 ## Milestone 2
 The goal of Milestone 2 was to add a few more mockup pages, as well as to implement the back-end of in-place mockups. Our Milestone 2 project board can be found on our [GitHub Project M2 Page](https://github.com/orgs/fourward-thinking/projects/3).
 
+<img src="html-mockups/m2-completed-tasks.png" alt="Completed M2 Tasks" />
+
 ## Milestone 3
 The goal of Milestone 3 is to complete all remaining functionality within the app, and polish the user interface. Our Milestone 3 project board can be found on our [GitHub Project M3 Page](https://github.com/orgs/fourward-thinking/projects/4).
 
@@ -151,6 +182,6 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## Team
 
-Fourward Thinking is designed, implemented, and maintained by Kaena Sylva, Aldwin Santos, and Jayden Capistrano.
+Fourward Thinking is designed, implemented, and maintained by Kaena Sylva and Jayden Capistrano.
 
 Team Contract can be found [here](https://docs.google.com/document/d/1eQ3XoFDD-6ArQlqjSbglP0_gA7TwmLjyn-lzj64xbVA/edit?usp=sharing).
