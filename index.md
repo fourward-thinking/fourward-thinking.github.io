@@ -170,7 +170,7 @@ The goal of Milestone 2 was to add a few more mockup pages, as well as to implem
 <img src="html-mockups/m2-completed-tasks.png" alt="Completed M2 Tasks" />
 
 ## Milestone 3
-The goal of Milestone 3 is to complete all remaining functionality within the app, and polish the user interface. Our Milestone 3 project board can be found on our [GitHub Project M3 Page](https://github.com/orgs/fourward-thinking/projects/4).
+The goal of Milestone 3 was to complete all remaining functionality within the app, and polish the user interface. Our Milestone 3 project board can be found on our [GitHub Project M3 Page](https://github.com/orgs/fourward-thinking/projects/4).
 
 ## Going Further
 After implementing the basic functionality, here are ideas for more advanced features:
