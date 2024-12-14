@@ -25,7 +25,7 @@
 
 Our project is live on Vercel!
 
-[Fourward Thinking App](https://fourward-thinking-app.vercel.app/)
+[Fourward Thinking App](https://fourward-thinking-application.vercel.app/)
 
 ## Approach
 
