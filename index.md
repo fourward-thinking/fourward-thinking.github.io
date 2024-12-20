@@ -85,7 +85,7 @@ Below, users may find a list of pages available for use.
 * **Create Study Session Page:**
   A page where students seeking help can propose study sessions on specific topics and schedule a time.
   
-  <img src="mockups/html-createsession.png" alt="Create Session Page" />
+  <img src="html-mockups/html-createsession.png" alt="Create Session Page" />
   
 * **Study Session Page:**
   Details of a specific study session, including participants, topic, time, and a status tracker (e.g., ongoing, completed).
